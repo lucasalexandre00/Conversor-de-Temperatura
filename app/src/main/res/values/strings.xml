@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor de Temperatura</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="hint_temperatura">Digite a temperatura</string>
+    <string name="celsius">Celsius</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="msgCtoF">Realizada a conversão de Celsius para Fahrenheit</string>
+    <string name="msgFtoC">Realizada a conversão de Fahrenheit para Celsius</string>
+    <string name="msgCtoK">Realizada a conversão de Celsius para Kelvin</string>
+</resources>
